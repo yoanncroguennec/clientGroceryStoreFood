@@ -1,0 +1,33 @@
+.linkNavbar {
+    text-decoration: none;
+    font-family: 'Bebas Neue';
+    height: 40px;
+    line-height: 43px;
+    margin: 3px;
+    padding: 0px 22px;
+    display: flex;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #3d2514;
+    letter-spacing: 1px;
+
+    transition: 0.2s ease-in-out;
+
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+.linkNavbar:hover {
+    border: 1px solid black;
+    border-radius: 3px;
+    font-size: 1.5rem;
+    color: "#fff";
+    background-color: "#bf2222";
+    box-shadow: "5px 10px 30px rgba(255, 2, 2, 0.336)";
+    transition: "all ease 0.2s";
+}
+
+Link{}
